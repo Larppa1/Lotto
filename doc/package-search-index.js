@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"fi.tuni.tamk.tiko.juvalari"},{"l":"fi.tuni.tamk.tiko.juvalari.util"}];updateSearchResults();
